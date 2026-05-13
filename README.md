@@ -63,5 +63,5 @@ I am interested in applying statistical modeling, machine learning, and causal i
 
 ## 📫 Connect With Me
 
-* LinkedIn: [https://www.linkedin.com/in/hejaz-nawasser-53990179/]
-* Portfolio: [https://www.datascienceportfol.io/HejazNavaser]
+* [LinkedIN](https://www.linkedin.com/in/hejaz-nawasser-53990179/)
+* [Portfolio] (https://www.datascienceportfol.io/HejazNavaser)
