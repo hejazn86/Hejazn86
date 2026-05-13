@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Hejaz Navaser 👋
 
-<!--
-**hejazn86/Hejazn86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist and Researcher with a background in Statistics, Operations Research, and Healthcare Analytics.
 
-Here are some ideas to get you started:
+I am interested in applying statistical modeling, machine learning, and causal inference methods to healthcare and real-world data problems, with particular interests in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Healthcare Analytics
+* Biostatistics & Epidemiology
+* Causal Inference
+* Real-World Evidence
+* Survival Analysis
+* Predictive Modeling
+
+## 🛠 Technical Skills
+
+### Programming & Analysis
+
+* Python
+* R
+* SQL
+* SAS
+* MATLAB
+
+### Data Visualization & Tools
+
+* Tableau
+* Power BI
+* Databricks
+* LaTeX
+* Linux
+
+### Methods
+
+* Statistical Modeling
+* Survival Analysis
+* Generalized Linear Models
+* Machine Learning
+* Time-Series Forecasting
+* NLP & Sentiment Analysis
+* Optimization & Operations Research
+
+## 📊 Featured Projects
+
+### Healthcare Analytics
+
+* Epidemiological analysis of Autism Spectrum Disorder hospitalization trends in Italy
+* EU Healthcare Spending & Mortality Analysis
+
+### Data Science & Machine Learning
+
+* Twitter Sentiment Analysis using NLP and Transformer Models
+* Stock Price Forecasting using LSTM and ARIMA
+* Blockchain Transaction Analytics
+
+## 📚 Current Interests
+
+* Healthcare Data Science
+* Clinical Research
+* Biostatistics
+* Causal Inference
+* Real-World Evidence
+* Statistical Learning
+
+## 📫 Connect With Me
+
+* LinkedIn: [https://www.linkedin.com/in/hejaz-nawasser-53990179/]
+* Portfolio: [https://www.datascienceportfol.io/HejazNavaser]
